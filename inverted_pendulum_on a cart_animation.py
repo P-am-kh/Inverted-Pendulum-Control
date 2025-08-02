@@ -25,7 +25,7 @@ x_dot0 = 0.0
 # Simulation parameters
 t_start = 0.0
 t_end = 10.0
-dt = 0.005
+dt = 0.05
 t_points = np.arange(t_start, t_end, dt)
 
 
